@@ -16,7 +16,8 @@ Block code "fences"
 Sample text here...
 ```
 
-Syntax highlighting
+### Syntax highlighting
+#### Javascript:
 
 ``` js
 var foo = function (bar) {
@@ -24,4 +25,23 @@ var foo = function (bar) {
 };
 
 console.log(foo(5));
+```
+#### Java:
+``` java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
+#### XML:
+``` xml
+<xml>
+  <test>123</test>
+</xml>
+
+```
+#### PHP:
+``` php
+<?php echo 'Hello, World!'; ?>
 ```
