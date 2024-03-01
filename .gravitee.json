@@ -3,7 +3,7 @@
     "documentation": {
         "pages": [
             {
-                "src": "/index.html",
+                "src": "/index.md",
                 "dest": "/",
                 "name": "Homepage",
                 "homepage": true
