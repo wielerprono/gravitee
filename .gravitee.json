@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "documentation": {
+        "pages": [
+            {
+                "src": "/index.html",
+                "dest": "/",
+                "name": "Homepage",
+                "homepage": true
+            },
+            {
+                "src": "/openapi.yaml",
+                "dest": "/",
+                "name": "Swagger"
+            }
+        ]
+    }
+}
