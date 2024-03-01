@@ -5,8 +5,7 @@
             {
                 "src": "/index.md",
                 "dest": "/",
-                "name": "Homepage",
-                "homepage": true
+                "name": "Homepage"
             },
 			{
                 "src": "/asciidoc.txt",
