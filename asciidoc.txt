@@ -1,24 +1,8 @@
-## Code
+## Code listings
 
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-### Syntax highlighting
-### Python:
-``` python
+### Python
+[source,python]
+-----------------
 #!/usr/bin/env python
 import antigravity
 try:
@@ -26,32 +10,39 @@ try:
 except FlytimeError as e:
   # um...not sure what to do now.
   pass
-```
-#### Javascript:
+-----------------
 
-``` js
+### Javascript
+[source,javascript]
+-----------------
 var foo = function (bar) {
   return bar++;
 };
 
 console.log(foo(5));
-```
-#### Java:
-``` java
+-----------------
+
+### Java
+[source,java]
+-----------------
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello World");
   }
 }
-```
-#### XML:
-``` xml
+-----------------
+
+#### XML
+[source,xml]
+-----------------
 <xml>
   <test>123</test>
 </xml>
 
-```
-#### PHP:
-``` php
+-----------------
+
+#### PHP
+[source,php]
+-----------------
 <?php echo 'Hello, World!'; ?>
-```
+-----------------
