@@ -8,7 +8,7 @@
                 "name": "Homepage"
             },
 			{
-                "src": "/asciidoc.txt",
+                "src": "/asciidoc.adoc",
                 "dest": "/",
                 "name": "Asciidoc"
             },
