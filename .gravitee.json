@@ -5,7 +5,7 @@
             {
                 "src": "/index.md",
                 "dest": "/",
-                "name": "Homepage"
+                "name": "Homepage in markdown"
             },
 			{
                 "src": "/asciidoc.adoc",
