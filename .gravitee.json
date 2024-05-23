@@ -22,7 +22,7 @@
                 "src": "/openapi.yaml",
                 "dest": "/",
                 "name": "Swagger",
-		"viewer": "redoc"
+		"configuration.viewer": "redoc"
             }
         ]
     }
