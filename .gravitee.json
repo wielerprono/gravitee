@@ -11,7 +11,7 @@
 			{
                 "src": "/asciidoc.adoc",
                 "dest": "/Code samples",
-                "name": "Asciidoc page"
+                "name": "Asciidoc page"		
             },
 			{
                 "src": "/markdown.md",
@@ -21,7 +21,8 @@
             {
                 "src": "/openapi.yaml",
                 "dest": "/",
-                "name": "Swagger"
+                "name": "Swagger",
+		"homepage": true
             }
         ]
     }
