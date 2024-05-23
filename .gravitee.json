@@ -6,6 +6,17 @@
                 "src": "/index.md",
                 "dest": "/",
                 "name": "Homepage in markdown"
+				"homepage": true
+            },
+			{
+                "src": "/asciidoc.adoc",
+                "dest": "/Code samples",
+                "name": "Asciidoc page"
+            },
+			{
+                "src": "/index.md",
+                "dest": "/Code samples",
+                "name": "Markdown page"
             },
             {
                 "src": "/openapi.yaml",
