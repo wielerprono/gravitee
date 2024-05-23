@@ -14,7 +14,7 @@
                 "name": "Asciidoc page"
             },
 			{
-                "src": "/index.md",
+                "src": "/markdown.md",
                 "dest": "/Code samples",
                 "name": "Markdown page"
             },
