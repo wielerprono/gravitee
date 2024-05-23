@@ -10,12 +10,12 @@
             },
 			{
                 "src": "/asciidoc.adoc",
-                "dest": "/Code-samples",
+                "dest": "/codesamples",
                 "name": "Asciidoc page"
             },
 			{
                 "src": "/markdown.md",
-                "dest": "/Code-samples",
+                "dest": "/codesamples",
                 "name": "Markdown page"
             },
             {
