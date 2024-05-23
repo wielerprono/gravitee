@@ -5,17 +5,17 @@
             {
                 "src": "/index.md",
                 "dest": "/",
-                "name": "Homepage in markdown"
-				"homepage": true
+                "name": "Homepage in markdown",
+		"homepage": true
             },
 			{
                 "src": "/asciidoc.adoc",
-                "dest": "/codesamples",
+                "dest": "/Code samples",
                 "name": "Asciidoc page"
             },
 			{
                 "src": "/markdown.md",
-                "dest": "/codesamples",
+                "dest": "/Code samples",
                 "name": "Markdown page"
             },
             {
