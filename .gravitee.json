@@ -7,11 +7,6 @@
                 "dest": "/",
                 "name": "Homepage in markdown"
             },
-			{
-                "src": "/asciidoc.adoc",
-                "dest": "/",
-                "name": "Asciidoc"
-            },
             {
                 "src": "/openapi.yaml",
                 "dest": "/",
