@@ -62,11 +62,6 @@ response = requests.get('https://api.example.com/v1/healthcheck')
 if response.status_code == 200:
     print(response.json())
 
-# Get health status of a specific service by ID
-service_id = "database"
-response = requests.get(f'https://api.example.com/v1/healthcheck/{service_id}')
-if response.status_code == 200:
-    print(response.json())
 ```
 
 ### JavaScript Example
@@ -80,12 +75,6 @@ fetch('https://api.example.com/v1/healthcheck')
     .then(data => console.log(data))
     .catch(error => console.error('Error:', error));
 
-// Get health status of a specific service by ID
-const serviceId = 'database';
-fetch(`https://api.example.com/v1/healthcheck/${serviceId}`)
-    .then(response => response.json())
-    .then(data => console.log(data))
-    .catch(error => console.error('Error:', error));
 ```
 
 ## Error Handling
